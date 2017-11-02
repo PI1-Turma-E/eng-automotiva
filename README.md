@@ -19,6 +19,6 @@ All geared stepper motors and drivers are available from  [www.omc-stepperonline
 
 Everything here was laid down to us by the guy below, so please pay credit to him.
 
-original git: https://github.com/Chris-Annin/AR2
+original git: https://github.com/Chris-Annin/AR2 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
+On the end, we will need to make all the files to print again, as we change the model to fit our needs. If not, we could simply use the original git files to print
