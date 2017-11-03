@@ -17,6 +17,8 @@ All geared stepper motors and drivers are available from  [www.omc-stepperonline
 
 ## Information
 
+**Read the TODO**
+
 Everything here was laid down to us by the guy below, so please pay credit to him.
 
 original git: https://github.com/Chris-Annin/AR2 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
