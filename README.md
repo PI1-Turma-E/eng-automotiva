@@ -17,7 +17,7 @@ All geared stepper motors and drivers are available from  [www.omc-stepperonline
 
 ## Information
 
-**Read the TODO**
+quick note: **Read the TODO**
 
 Everything here was laid down to us by the guy below, so please pay credit to him.
 
