@@ -23,6 +23,8 @@ really important: **Use the CATIA v5 r19 version**
 
 Everything here was laid down to us by the guy below, so please pay credit to him.
 
+Some of the needed parts we will find on [McMaster-carr](https://www.mcmaster.com/)
+
 original git: https://github.com/Chris-Annin/AR2 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisAnnin)
 
 On the end, we will need to make all the files to print again, as we change the model to fit our needs. If not, we could simply use the original git files to print
