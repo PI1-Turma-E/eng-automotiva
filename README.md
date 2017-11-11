@@ -2,7 +2,7 @@
 
 # AR2
 
-A AR2 robotic arm for use on ultrasound long-distance exam. Slightly modified to use on CATIA
+A AR2 it the robotic arm chosen for use on ultrasound long-distance exam because of it's open source origin.
 
 The arm is converted from the original STEP files to work on CATIA. There is still need to put on bearings and screws on the assembly and to modify or create some stuff to make it work on the final project.
 
