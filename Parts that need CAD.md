@@ -12,7 +12,6 @@ This is the List of all CAD needed parts
 - Bearings
   - 30203 Tapered Bearing
   - Thrust Needle Roller Bearing 35x52x4
-  - Koyo B-1616 Needle Roller Bearing Cup, Open, 1"ID  1-1/4"OD 1"Width
   - SKF HK 1612 Needle Roller Bearing Caged 16mmID 22mmOD 12Width
   - 3mm Stainless Steel Linear Rail
   - LM3UU 3mm Linear Bearing
@@ -34,3 +33,4 @@ This is the List of all CAD needed parts
   - Thrust Needle Roller Bearing 1" x 9/16" **McMaster Catalog = 5909K36**
   - Thrust Needle Roller Bearing 0.032" thick Washer **McMaster Catalog = 5909K49**
   - Thrust Needle Roller Bearing 0.126" thick Washer **McMaster Catalog = 5909K63**
+  - Koyo B-1616 Needle Roller Bearing Cup, Open, 1"ID  1-1/4"OD 1"Width
