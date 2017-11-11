@@ -1,0 +1,9 @@
+- Check the BOM for the downloaded parts and insert them under the assembly on the asigned places
+  - Bearings
+  - Motors
+  - Sprockets
+  - etc...
+  - Screws.(They are on CATIA under Catalog)
+- Create a DMU kinematic simulation under CATIA.
+- Measure the torque under each joint.
+- On the end, create Drafting of the arm and save as a 3d printer acceptable file.
