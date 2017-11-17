@@ -15,9 +15,6 @@ If you find any part on the web, please cite the link here.
 ## Parts list
 
 - Motors
-  - 5:1 Planetary Gear 17HS19-1684S-PG5 NEMA 17 Stepper Motor (Marcos Paulo)
-  - 19:1 Planetary Gear 17HS19-1684S-PG19 NEMA 17 Stepper Motor (Marcos Paulo)
-  - Threaded Rod NEMA 17 external link 200mm T8 x 8 (Marcos Paulo)
   - 47:1 Planetary Gear 23HS30-2804S-PG47 NEMA 23 Stepper Motor (Jonatas)
   - 5:1 Planetary Gear 11HS20-0674S-PG5 NEMA 11 Stepper Motor (Jonatas)
   - NEMA 11 Stepper Motor (Geared motor) Support (Jonatas)
