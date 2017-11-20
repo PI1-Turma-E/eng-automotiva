@@ -1,6 +1,14 @@
-- Create The Primary Assembly and CADs. The list of parts that need CAD are on the file: `Parts that need CAD.md`
+# Control Point 3 todo
+
+- Manuals
+  - BOM
+  - Assembly instructions
+  - Wiring Harness
+  - Maintenance
+- Pricing 
 - Create a DMU kinematic simulation under CATIA.
-- Measure the torque under each joint.
-- Create Drafting of the arm. (As well as a BOM)
-- Create _better_ Assembly instructions
-- Save as a 3d printer acceptable file format.
+- Structural Simulation on ANSY
+- Documentation
+
+Done
+- Create The Primary Assembly and CADs. The list of parts that need CAD are on the file: `Parts that need CAD.md`
