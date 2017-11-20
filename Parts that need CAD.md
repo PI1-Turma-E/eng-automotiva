@@ -13,25 +13,20 @@ are usable elements.
 If you find any part on the web, please cite the link here.
 
 ## Parts list
-
-- Motors
-  - 47:1 Planetary Gear 23HS30-2804S-PG47 NEMA 23 Stepper Motor (Jonatas)
-  - 5:1 Planetary Gear 11HS20-0674S-PG5 NEMA 11 Stepper Motor (Jonatas)
-  - NEMA 11 Stepper Motor (Geared motor) Support (Jonatas)
-  - 19:1 Planetary Gear 14HS13-0804S-PG19 NEMA 14 Stepper Motor (Luís filipe)
   
-- Bearings
+- Already Made Parts
   - 30203 Tapered Bearing (Lucas Regis)
   - Thrust Needle Roller Bearing 35x52x4 (Lucas Regis)
   - SKF HK 1612 Needle Roller Bearing Caged 16mmID 22mmOD 12Width (Lucas Regis)
   - LM3UU 3mm Linear Bearing (Igor Lima)
   - 688Z Deep Groove Bearing (Igor Lima)
-  
-- Belts
-  - XL 15 Teeth 8mm Bore 11 Width timing belt Sprocket (Igor Lima)
-  - XL 10 Teeth 6mm Bore 11 Width timing belt Sprocket (Luís Filipe)
-  
-- Already Made Parts
+  - 19:1 Planetary Gear 14HS13-0804S-PG19 NEMA 14 Stepper Motor (Luís filipe)
+  - 47:1 Planetary Gear 23HS30-2804S-PG47 NEMA 23 Stepper Motor (Jonatas)
+  - 5:1 Planetary Gear 11HS20-0674S-PG5 NEMA 11 Stepper Motor (Jonatas)
+  - NEMA 11 Stepper Motor (Geared motor) Support (Jonatas)
+  - 5:1 Planetary Gear 17HS19-1684S-PG5 NEMA 17 Stepper Motor (Marcos Paulo)
+  - 19:1 Planetary Gear 17HS19-1684S-PG19 NEMA 17 Stepper Motor (Marcos Paulo)
+  - Threaded Rod NEMA 17 external link 200mm T8 x 8 (Marcos Paulo)
   - 32009 Tapered Bearing
   - 30206 Tapered Bearing
   - 30204 Tapered Bearing
@@ -41,3 +36,5 @@ If you find any part on the web, please cite the link here.
   - Thrust Needle Roller Bearing 0.126" thick Washer **McMaster Catalog = 5909K63**
   - Koyo B-1616 Needle Roller Bearing Cup, Open, 1"ID  1-1/4"OD 1"Width
   - 3mm Stainless Steel Linear Rail
+  - XL 15 Teeth 8mm Bore 11 Width timing belt Sprocket (Igor Lima)
+  - XL 10 Teeth 6mm Bore 11 Width timing belt Sprocket (Luís Filipe)
