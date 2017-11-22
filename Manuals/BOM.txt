@@ -27,7 +27,7 @@ Compute Date: quinta-feira, 9 de novembro de 2017 22:19:19
 | 2        | 30206 taperedRollerB | Part       | 30206               | Bought       | 
 | 1        | Joint3               | Assembly   |                     | Unknown      | 
 | 1        | 30204 taperedRollerB | Part       |                     | Bought       | 
-| 1        | J4                   | Assembly   |                     | Unknown      | 
+| 1        | Joint4               | Assembly   |                     | Unknown      | 
 +----------+----------------------+------------+---------------------+--------------+ 
  
  
