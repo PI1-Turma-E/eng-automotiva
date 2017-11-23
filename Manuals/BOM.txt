@@ -1,165 +1,275 @@
-Compute Date: quinta-feira, 9 de novembro de 2017 22:19:19 
+Compute Date: quinta-feira, 23 de novembro de 2017 20:07:28 
  
+Used Search Order: [None] 
  
-===================================================================================== 
-= Bill of Material: AR2ASSY                                                         = 
-===================================================================================== 
+============================================================================================== 
+= Bill of Material: AR2ASSY                                                                  = 
+============================================================================================== 
  
-+----------+----------------------+------------+---------------------+--------------+ 
-| Quantity | Part Number          | Type       | Nomenclature        | Source       | 
-+----------+----------------------+------------+---------------------+--------------+ 
-| 1        | J6 main bearing arm  | Part       | J6 main bearing arm | Unknown      | 
-| 1        | J5 belt carrier clam | Part       | J5 belt carrier cla | Unknown      | 
-| 1        | J5 belt carrier      | Part       | J5 belt carrier     | Unknown      | 
-| 1        | J5 housing           | Part       | J5 housing          | Unknown      | 
-| 1        | J5 idler tension blo | Part       | J5 idler tension bl | Unknown      | 
-| 1        | J5 motor mount       | Part       | J5 motor mount      | Unknown      | 
-| 1        | J5 side cover cap    | Part       | J5 side cover cap   | Unknown      | 
-| 2        | J5 side cover spacer | Part       | J5 side cover space | Unknown      | 
-| 1        | J5 side cover        | Part       | J5 side cover       | Unknown      | 
-| 1        | J6 bearing cap       | Part       | J6 bearing cap      | Unknown      | 
-| 1        | J6 housing single pi | Part       | J6 housing single p | Unknown      | 
-| 1        | Joint1               | Assembly   |                     | Unknown      | 
-| 2        | 32009 taperedRollerB | Part       | 32009               | Bought       | 
-| 1        | J2 Spring housing    | Part       | J2 Spring housing   | Unknown      | 
-| 1        | Joint2               | Assembly   |                     | Unknown      | 
-| 1        | J2 tension ring      | Part       | J2 tension ring     | Unknown      | 
-| 2        | 30206 taperedRollerB | Part       | 30206               | Bought       | 
-| 1        | Joint3               | Assembly   |                     | Unknown      | 
-| 1        | 30204 taperedRollerB | Part       |                     | Bought       | 
-| 1        | Joint4               | Assembly   |                     | Unknown      | 
-+----------+----------------------+------------+---------------------+--------------+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | Joint1               |                     | Unknown      | Base                | 
+| 1        | Joint2               |                     | Unknown      |                     | 
+| 1        | Joint3               |                     | Unknown      |                     | 
+| 1        | Joint4               |                     | Unknown      |                     | 
+| 1        | Joint5               |                     | Unknown      |                     | 
+| 1        | Joint6               |                     | Unknown      |                     | 
+| 1        | Belt Carrier         |                     | Unknown      |                     | 
+| 1        | J2 Spring housing    | J2 Spring housing   | Made         |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
  
  
  
  
-===================================================================================== 
-= Bill of Material: Joint1                                                          = 
-===================================================================================== 
+============================================================================================== 
+= Bill of Material: Joint1                                                                   = 
+============================================================================================== 
  
-+----------+----------------------+------------+---------------------+--------------+ 
-| Quantity | Part Number          | Type       | Nomenclature        | Source       | 
-+----------+----------------------+------------+---------------------+--------------+ 
-| 1        | J1 base plate        | Part       | J1 base plate       | Unknown      | 
-| 1        | J1 base support spac | Part       | J1 base support spa | Unknown      | 
-| 1        | J1 motor mount       | Part       | J1 motor mount      | Unknown      | 
-| 1        | J1 turret housing    | Part       | J1 turret housing   | Unknown      | 
-| 8        | M4x10 SOCKET HEAD SC | Part       |                     | Unknown      | 
-+----------+----------------------+------------+---------------------+--------------+ 
- 
- 
- 
- 
-===================================================================================== 
-= Bill of Material: Joint2                                                          = 
-===================================================================================== 
- 
-+----------+----------------------+------------+---------------------+--------------+ 
-| Quantity | Part Number          | Type       | Nomenclature        | Source       | 
-+----------+----------------------+------------+---------------------+--------------+ 
-| 1        | J1 spindle           | Part       | J1 spindle          | Unknown      | 
-| 1        | J1 turret platform   | Part       | J1 turret platform  | Unknown      | 
-| 1        | J2 motor support     | Part       | J2 motor support    | Unknown      | 
-| 1        | J2 turret housing    | Part       | J2 turret housing   | Unknown      | 
-| 8        | M6x16 SOCKET HEAD SC | Part       |                     | Unknown      | 
-| 6        | M6x18 SOCKET COUNTER | Part       |                     | Bought       | 
-| 3        | M6x14 SOCKET COUNTER | Part       |                     | Bought       | 
-| 6        | M6x14 SOCKET HEAD SC | Part       |                     | Bought       | 
-| 1        | J1 Driven Sprocket   | Part       |                     | Bought       | 
-+----------+----------------------+------------+---------------------+--------------+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | J1 base plate        | J1 base plate       | Made         |                     | 
+| 1        | J1 base support spac | J1 base support spa | Made         |                     | 
+| 1        | J1 motor mount       | J1 motor mount      | Made         | UNKNOWN             | 
+| 1        | J1 turret housing    | J1 turret housing   | Made         |                     | 
+| 8        | M4x10 SOCKET HEAD SC |                     | Unknown      |                     | 
+| 1        | J1 Motor             | Planetary Gear 17HS | Bought       | stepper motor       | 
+| 4        | M3x5 SOCKET HEAD SCR |                     | Bought       |                     | 
+| 14       | M4x16 SOCKET COUNTER |                     | Bought       |                     | 
+| 2        | J1 Bearing           | 32009 Taperd Roller | Bought       |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
  
  
  
  
-===================================================================================== 
-= Bill of Material: Joint3                                                          = 
-===================================================================================== 
+============================================================================================== 
+= Bill of Material: Joint2                                                                   = 
+============================================================================================== 
  
-+----------+----------------------+------------+---------------------+--------------+ 
-| Quantity | Part Number          | Type       | Nomenclature        | Source       | 
-+----------+----------------------+------------+---------------------+--------------+ 
-| 4        | J2 arm cover spacer  | Part       | J2 arm cover spacer | Unknown      | 
-| 1        | J2 arm               | Part       | J2 arm              | Unknown      | 
-| 1        | J2 drive spindle     | Part       | J2 drive spindle    | Unknown      | 
-| 1        | J2 side cover        | Part       | J2 side cover       | Unknown      | 
-| 1        | J3 bearing cup       | Part       | J3 bearing cup      | Unknown      | 
-| 1        | J3 motor mount       | Part       | J3 motor mount      | Unknown      | 
-| 8        | M4x10 SOCKET COUNTER | Part       |                     | Unknown      | 
-| 6        | M3x25 SOCKET COUNTER | Part       |                     | Bought       | 
-| 16       | M3x30 SOCKET HEAD SC | Part       |                     | Unknown      | 
-+----------+----------------------+------------+---------------------+--------------+ 
- 
- 
- 
- 
-===================================================================================== 
-= Bill of Material: J4                                                              = 
-===================================================================================== 
- 
-+----------+----------------------+------------+---------------------+--------------+ 
-| Quantity | Part Number          | Type       | Nomenclature        | Source       | 
-+----------+----------------------+------------+---------------------+--------------+ 
-| 1        | J3 turret housing    | Part       | J3 turret housing   | Unknown      | 
-| 1        | J4 motor mount - lim | Part       | J4 motor mount - li | Unknown      | 
-| 1        | J3 spindle           | Part       | J3 spindle          | Unknown      | 
-| 4        | M4x12 SOCKET HEAD SC | Part       |                     | Unknown      | 
-| 2        | M4x12 SOCKET COUNTER | Part       |                     | Unknown      | 
-+----------+----------------------+------------+---------------------+--------------+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | J1 spindle           | J1 spindle          | Made         |                     | 
+| 1        | J1 turret platform   | J1 turret platform  | Made         |                     | 
+| 1        | J2 motor support     | J2 motor support    | Made         |                     | 
+| 1        | J2 turret housing    | J2 turret housing   | Made         |                     | 
+| 8        | M6x16 SOCKET HEAD SC |                     | Unknown      |                     | 
+| 6        | M6x18 SOCKET COUNTER |                     | Bought       |                     | 
+| 3        | M6x14 SOCKET COUNTER |                     | Bought       |                     | 
+| 6        | M6x14 SOCKET HEAD SC |                     | Bought       |                     | 
+| 1        | J1 Driven Sprocket   |                     | Bought       | 60T timing Pulley   | 
+| 1        | J3Motor              |                     | Bought       | 23HS30-2804S-PG47 N | 
+| 2        | J2 Bearing           | 30206 taperedRoller | Bought       |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
  
  
  
  
-=================================== 
-= Recapitulation of: AR2ASSY      = 
-= Different parts: 44             = 
-= Total parts: 107                = 
-=================================== 
+============================================================================================== 
+= Bill of Material: Joint3                                                                   = 
+============================================================================================== 
  
-+----------+----------------------+ 
-| Quantity | Part Number          | 
-+----------+----------------------+ 
-| 1        | J6 main bearing arm  | 
-| 1        | J5 belt carrier clam | 
-| 1        | J5 belt carrier      | 
-| 1        | J5 housing           | 
-| 1        | J5 idler tension blo | 
-| 1        | J5 motor mount       | 
-| 1        | J5 side cover cap    | 
-| 2        | J5 side cover spacer | 
-| 1        | J5 side cover        | 
-| 1        | J6 bearing cap       | 
-| 1        | J6 housing single pi | 
-| 1        | J1 base plate        | 
-| 1        | J1 base support spac | 
-| 1        | J1 motor mount       | 
-| 1        | J1 turret housing    | 
-| 8        | M4x10 SOCKET HEAD SC | 
-| 2        | 32009 taperedRollerB | 
-| 1        | J2 Spring housing    | 
-| 1        | J1 spindle           | 
-| 1        | J1 turret platform   | 
-| 1        | J2 motor support     | 
-| 1        | J2 turret housing    | 
-| 8        | M6x16 SOCKET HEAD SC | 
-| 6        | M6x18 SOCKET COUNTER | 
-| 3        | M6x14 SOCKET COUNTER | 
-| 6        | M6x14 SOCKET HEAD SC | 
-| 1        | J1 Driven Sprocket   | 
-| 1        | J2 tension ring      | 
-| 2        | 30206 taperedRollerB | 
-| 4        | J2 arm cover spacer  | 
-| 1        | J2 arm               | 
-| 1        | J2 drive spindle     | 
-| 1        | J2 side cover        | 
-| 1        | J3 bearing cup       | 
-| 1        | J3 motor mount       | 
-| 8        | M4x10 SOCKET COUNTER | 
-| 6        | M3x25 SOCKET COUNTER | 
-| 16       | M3x30 SOCKET HEAD SC | 
-| 1        | 30204 taperedRollerB | 
-| 1        | J3 turret housing    | 
-| 1        | J4 motor mount - lim | 
-| 1        | J3 spindle           | 
-| 4        | M4x12 SOCKET HEAD SC | 
-| 2        | M4x12 SOCKET COUNTER | 
-+----------+----------------------+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 4        | J2 arm cover spacer  | J2 arm cover spacer | Made         |                     | 
+| 1        | J2 arm               | J2 arm              | Made         |                     | 
+| 1        | J2 drive spindle     | J2 drive spindle    | Made         |                     | 
+| 1        | J2 side cover        | J2 side cover       | Made         |                     | 
+| 1        | J3 bearing cup       | J3 bearing cup      | Made         |                     | 
+| 1        | J3 motor mount       | J3 motor mount      | Made         |                     | 
+| 8        | M4x10 SOCKET COUNTER |                     | Unknown      |                     | 
+| 6        | M3x25 SOCKET COUNTER |                     | Bought       |                     | 
+| 16       | M3x30 SOCKET HEAD SC |                     | Unknown      |                     | 
+| 1        | J4 Motor             | 17HS19-1684S-PG19   | Bought       | Nema 17 Stepper mot | 
+| 4        | M3x5 SOCKET HEAD SCR |                     | Bought       |                     | 
+| 1        | J2 tension ring      | J2 tension ring     | Made         |                     | 
+| 1        | J3 Bearing           |                     | Bought       | 30204 taperedRoller | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+ 
+ 
+ 
+ 
+============================================================================================== 
+= Bill of Material: Joint4                                                                   = 
+============================================================================================== 
+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | J3 turret housing    | J3 turret housing   | Made         |                     | 
+| 1        | J4 motor mount - lim | J4 motor mount - li | Made         |                     | 
+| 1        | J3 spindle           | J3 spindle          | Made         |                     | 
+| 4        | M4x12 SOCKET HEAD SC |                     | Unknown      |                     | 
+| 2        | M4x12 SOCKET COUNTER |                     | Unknown      |                     | 
+| 3        | M4x10 SOCKET HEAD SC |                     | Unknown      |                     | 
+| 2        | J4 bearing           | Koyo B-1616 Needle  | Bought       | 1" ID, 1-1/4" OD, 1 | 
+| 1        | J5Motor              | 11HS20-0674S-PG5 NE | Bought       |                     | 
+| 1        | Nema 11 geared suppo |                     | Bought       |                     | 
+| 1        | Timing belt Sprocket |                     | Bought       | XL 10Teeth 6mm Bore | 
+| 1        | Thrust needle Bearin | Thrust needle Beari | Bought       |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+ 
+ 
+ 
+ 
+============================================================================================== 
+= Bill of Material: Joint5                                                                   = 
+============================================================================================== 
+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | J5 motor mount       | J5 motor mount      | Made         |                     | 
+| 1        | J5 Tube              | High-Strength 2024  | Bought       | McMaster 1968T17    | 
+| 1        | J5 housing           | J5 housing          | Made         |                     | 
+| 1        | J5 idler tension blo | J5 idler tension bl | Made         | UNKNOWN             | 
+| 1        | J5 side cover        | J5 side cover       | Made         |                     | 
+| 2        | J5 side cover spacer | J5 side cover space | Made         |                     | 
+| 1        | J5 side cover cap    | J5 side cover cap   | Made         |                     | 
+| 1        | J6 main bearing arm  | J6 main bearing arm | Made         |                     | 
+| 1        | J6 bearing cap       | J6 bearing cap      | Made         |                     | 
+| 1        | J4 driven Pulley     | 30T for XL 10 Belt  | Made         | 3d Printed          | 
+| 6        | M6x14 SOCKET COUNTER |                     | Bought       |                     | 
+| 2        | 3mm liner rod        | 3mm Linear rail     | Bought       |                     | 
+| 8        | M3x25 SOCKET COUNTER |                     | Bought       |                     | 
+| 6        | M3x20 SOCKET COUNTER |                     | Bought       |                     | 
+| 1        | Threaded Rod NEMA 17 |                     | Unknown      |                     | 
+| 1        | J5 Idler Post        |                     | Made         | 3d Printed          | 
+| 2        | Thick Washer For Thr | 0.032" Thick Washer | Unknown      | McMaster 5909K63    | 
+| 3        | 1" Thust Needle Bear | 1" Shaft Diameter T | Bought       | McMaster 5909K36    | 
+| 4        | Thin Washer For Thru | 0.126" Thick Washer | Bought       | McMaster 5909K49    | 
+| 1        | M6x12 SOCKET HEAD SC |                     | Bought       |                     | 
+| 1        | SKF HK 1612 Needle R | SKF HK 1612         | Bought       |                     | 
+| 1        | 30203 Tapered Bearin |                     | Unknown      |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+ 
+ 
+ 
+ 
+============================================================================================== 
+= Bill of Material: Threaded Rod NEMA 17 external link 200mm T8 x 8                          = 
+============================================================================================== 
+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | Eixo_do_motor        |                     | Unknown      |                     | 
+| 1        | Motor_NEMA_17        |                     | Unknown      |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+ 
+ 
+ 
+ 
+============================================================================================== 
+= Bill of Material: Joint6                                                                   = 
+============================================================================================== 
+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 1        | J6 housing single pi | J6 housing single p | Made         |                     | 
+| 1        | J6 Motor             | 14HS13-0804S-PG19 N | Bought       | 5:1 reduction stepp | 
+| 4        | M3x5 SOCKET HEAD SCR |                     | Bought       |                     | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+ 
+ 
+ 
+ 
+============================================================================================== 
+= Bill of Material: Belt Carrier                                                             = 
+============================================================================================== 
+ 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| Quantity | Part Number          | Nomenclature        | Source       | Definition          | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+| 4        | 3mm Linear Bearing   | LM3UU               | Bought       |                     | 
+| 1        | J5 belt carrier      | J5 belt carrier     | Made         | UNKNOWN             | 
+| 1        | J5 belt carrier clam | J5 belt carrier cla | Made         | UNKNOWN             | 
+| 1        | POM nut              |                     | Bought       | T8x8                | 
++----------+----------------------+---------------------+--------------+---------------------+ 
+ 
+ 
+ 
+ 
+================================================== 
+= Recapitulation of: AR2ASSY                     = 
+= Different parts: 70                            = 
+= Total parts: 190                               = 
+================================================== 
+ 
++----------+----------------------+--------------+ 
+| Quantity | Part Number          | Source       | 
++----------+----------------------+--------------+ 
+| 1        | J1 base plate        | Made         | 
+| 1        | J1 base support spac | Made         | 
+| 1        | J1 motor mount       | Made         | 
+| 1        | J1 turret housing    | Made         | 
+| 11       | M4x10 SOCKET HEAD SC | Unknown      | 
+| 1        | J1 Motor             | Bought       | 
+| 12       | M3x5 SOCKET HEAD SCR | Bought       | 
+| 14       | M4x16 SOCKET COUNTER | Bought       | 
+| 2        | J1 Bearing           | Bought       | 
+| 1        | J1 spindle           | Made         | 
+| 1        | J1 turret platform   | Made         | 
+| 1        | J2 motor support     | Made         | 
+| 1        | J2 turret housing    | Made         | 
+| 8        | M6x16 SOCKET HEAD SC | Unknown      | 
+| 6        | M6x18 SOCKET COUNTER | Bought       | 
+| 9        | M6x14 SOCKET COUNTER | Bought       | 
+| 6        | M6x14 SOCKET HEAD SC | Bought       | 
+| 1        | J1 Driven Sprocket   | Bought       | 
+| 1        | J3Motor              | Bought       | 
+| 2        | J2 Bearing           | Bought       | 
+| 4        | J2 arm cover spacer  | Made         | 
+| 1        | J2 arm               | Made         | 
+| 1        | J2 drive spindle     | Made         | 
+| 1        | J2 side cover        | Made         | 
+| 1        | J3 bearing cup       | Made         | 
+| 1        | J3 motor mount       | Made         | 
+| 8        | M4x10 SOCKET COUNTER | Unknown      | 
+| 14       | M3x25 SOCKET COUNTER | Bought       | 
+| 16       | M3x30 SOCKET HEAD SC | Unknown      | 
+| 1        | J4 Motor             | Bought       | 
+| 1        | J2 tension ring      | Made         | 
+| 1        | J3 Bearing           | Bought       | 
+| 1        | J3 turret housing    | Made         | 
+| 1        | J4 motor mount - lim | Made         | 
+| 1        | J3 spindle           | Made         | 
+| 4        | M4x12 SOCKET HEAD SC | Unknown      | 
+| 2        | M4x12 SOCKET COUNTER | Unknown      | 
+| 2        | J4 bearing           | Bought       | 
+| 1        | J5Motor              | Bought       | 
+| 1        | Nema 11 geared suppo | Bought       | 
+| 1        | Timing belt Sprocket | Bought       | 
+| 1        | Thrust needle Bearin | Bought       | 
+| 1        | J5 motor mount       | Made         | 
+| 1        | J5 Tube              | Bought       | 
+| 1        | J5 housing           | Made         | 
+| 1        | J5 idler tension blo | Made         | 
+| 1        | J5 side cover        | Made         | 
+| 2        | J5 side cover spacer | Made         | 
+| 1        | J5 side cover cap    | Made         | 
+| 1        | J6 main bearing arm  | Made         | 
+| 1        | J6 bearing cap       | Made         | 
+| 1        | J4 driven Pulley     | Made         | 
+| 2        | 3mm liner rod        | Bought       | 
+| 6        | M3x20 SOCKET COUNTER | Bought       | 
+| 1        | Eixo_do_motor        | Unknown      | 
+| 1        | Motor_NEMA_17        | Unknown      | 
+| 1        | J5 Idler Post        | Made         | 
+| 2        | Thick Washer For Thr | Unknown      | 
+| 3        | 1" Thust Needle Bear | Bought       | 
+| 4        | Thin Washer For Thru | Bought       | 
+| 1        | M6x12 SOCKET HEAD SC | Bought       | 
+| 1        | SKF HK 1612 Needle R | Bought       | 
+| 1        | 30203 Tapered Bearin | Unknown      | 
+| 1        | J6 housing single pi | Made         | 
+| 1        | J6 Motor             | Bought       | 
+| 4        | 3mm Linear Bearing   | Bought       | 
+| 1        | J5 belt carrier      | Made         | 
+| 1        | J5 belt carrier clam | Made         | 
+| 1        | POM nut              | Bought       | 
+| 1        | J2 Spring housing    | Made         | 
++----------+----------------------+--------------+ 
